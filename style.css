@@ -22,6 +22,7 @@ body{
     color: white;
 }
 #perehod-btn{
+text-align:center;    
 font-family: roboto;
 margin-left: 44.5vw;
 width: 10vw;
@@ -124,7 +125,7 @@ animation-duration: 2.2s;
 #top-drop{
     font-family: roboto;
     font-size: 4vmax;
-    margin-left: 33.5vw;
+    margin-left: 30.5vw;
     color: greenyellow;
     display:none ;
     text-shadow: 0 0 2vw greenyellow;
